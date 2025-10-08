@@ -1,2 +1,2 @@
 # intelligent-control-week1.
-Week 1
+Tugas Minggu Ke 1.
